@@ -1,5 +1,5 @@
 # scolor, have good text :blush:
-![scolor image]()
+![scolor image](color.jpg)
 ### Previwe
 The go package you can have text color
 
