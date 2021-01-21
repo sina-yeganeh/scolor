@@ -1,6 +1,6 @@
 # scolor, have good text :blush:
 ![scolor image](color.jpg)
-### Previwe
+### preview 
 The go package you can have text color
 
 I will be add bold, italik and background
@@ -8,7 +8,7 @@ I will be add bold, italik and background
 ## Installation
 - First clone this repo with `git clone https://github.com/SinaYeganeh0-0/scolor.git`
 - Then cut folder and go to this path: `C:\Go\src`
-- Past it
+- Paste it
 - Now you can use in your project!
 
 ## How to use
@@ -20,7 +20,7 @@ this function get tow argoument:
 - Color => string
 - Text => string
 
-Exampel:
+Example:
 ```Go
 package main
 
